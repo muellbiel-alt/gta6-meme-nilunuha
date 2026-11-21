@@ -1,6 +1,10 @@
 # GTA 6 meme — "Waited 13 years for GTA 6"
 
-Entry for make.fun bounty **gta6-meme-x-01** ($500, 50 places): post a GTA 6 meme on X.
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/muellbiel-alt/gta6-meme-nilunuha/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/muellbiel-alt/gta6-meme-nilunuha/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for make.fun bounty **gta6-meme-x-01** ($500, 50 places): post a GTA 6 meme on X — [bounty page](https://make.fun/bounty/gta6-meme-x-01). Referral code: `56xpzyp1`.
 
 ## The meme
 
